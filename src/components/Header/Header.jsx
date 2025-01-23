@@ -6,7 +6,7 @@ function Header({ searchQuery, setSearchQuery, handleSearch }) {
       <div className="header-top">
         <div className="logo-container">
           <img 
-            src="./src/components/Image/NGO_logo.jpg" 
+            src="./Image/NGO_logo.jpg" 
             alt="ASHA WELFARE SOCIETY Logo" 
             className="logo"
           />

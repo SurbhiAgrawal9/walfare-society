@@ -7,7 +7,7 @@ function Footer() {
         <div className="footer-content">
           <div className="footer-section">
             <img 
-              src="./src/components/Image/NGO_logo.jpg" 
+              src=".Image/NGO_logo.jpg" 
               alt="ASHA WELFARE SOCIETY Logo" 
               className="footer-logo"
             />
