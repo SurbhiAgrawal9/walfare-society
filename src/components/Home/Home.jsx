@@ -5,6 +5,7 @@ import Reviews from '../Reviews/Reviews'
 import MailingList from '../MailingList/MailingList'
 import Footer from '../Footer/Footer'
 
+
 function Home() {
   const [formData, setFormData] = useState({
     firstName: '',
@@ -42,7 +43,7 @@ function Home() {
       />
       
       <img 
-        src="./src/components/Image/NGO_intro.jpg" 
+        src="/Images/NGO_intro.jpg" 
         alt="Header Banner" 
         className="header-image"
       />
